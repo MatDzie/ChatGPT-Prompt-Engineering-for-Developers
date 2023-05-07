@@ -21,3 +21,7 @@ Welcome to the GitHub repository for the course "ChatGPT Prompt Engineering for 
 
 6. **Expanding**:
    - The expanding section showcases examples of generating tailored text with ChatGPT. It provides insights into expanding and generating text based on specific requirements. By using ChatGPT's language generation capabilities, you can create custom content that adheres to your specific needs.
+
+7. **Custom Chatbot Implementation**:
+   - This topic covers the implementation of a custom chatbot using ChatGPT. It explores how to integrate ChatGPT into a chatbot application, handle user inputs, and generate appropriate responses.
+
